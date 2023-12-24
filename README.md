@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinod V S</h1>
 <h3 align="center">A passionate Full Stack developer with 3 years of experience in developing web applications.</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsvinod&label=Profile%20views&color=0e75b6&style=flat" alt="vsvinod" /> </p>
 
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsvinod&show_icons=true&locale=en" alt="vsvinod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsvinod&" alt="vsvinod" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vsvinod&limit=5&theme=flat&combine_all_yearly_contributions=true)
